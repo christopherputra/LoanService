@@ -11,7 +11,8 @@ Loan Service is a service that handles loans starting from init, propose, approv
 1. **JWT TOKEN SIGNING** Since this is an API design, so I decided to add authorization for the APIs using JWT token implementation. This token is used in all of the APIs headers except the Init and Token API.
 2. **Sign Up & Login** Since I want to implement JWT, therefore I add Signup feature which are the IniAccount API & InitEmployee API, and the Login feature which are the TokenAccount API and TokenEmployee API.
 3. **Password Encryption** I know the password should be encrypted at least using hashing functions such as sha256 etc before stored in the database. However, I haven't implemented it in this encryption.
-4. **Any third party use is not implemneted** third party such as emailer and everything else is provided as diagrams only since It wont be able to be run on all local system also. SMTP gmail is not free anymore.
+4. **Any third party use is not implemented** third party such as emailer and everything else is provided as diagrams only since It wont be able to be run on all local system also. SMTP gmail is not free anymore.
+5. **Image and file handling** I put the image and file pdf handling as direct value right now. please do tell me If the implementation of the image and file upload is needed
 
 ### Brief Architecture - Service Based API
 [![ARCHITECTURE](https://imgur.com/ugDpOpr,jpg "ARCHITECTURE")](https://imgur.com/ugDpOpr.jpg "ARCHITECTURE")
