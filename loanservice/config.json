@@ -1,0 +1,11 @@
+{
+    "postgres": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "password": "240700",
+        "dbname": "loanservice"
+    },
+    "host": "localhost",
+    "port": "8080"
+}
