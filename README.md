@@ -58,7 +58,7 @@ loanservice
 ```
 ## API Documentation
 #### Postman Collection
-**Please import this postman collection /LoanService.postman_collection.json to see the APIs including the body and the headers.**
+Please import this postman collection **/LoanService.postman_collection.json** to see the APIs including the body and the headers.
 
 ## Getting Started
 #### Golang Install
