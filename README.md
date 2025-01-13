@@ -14,7 +14,7 @@ Loan Service is a service that handles loans starting from init, propose, approv
 4. **Any third party use is not implemneted** third party such as emailer and everything else is provided as diagrams only since It wont be able to be run on all local system also. SMTP gmail is not free anymore.
 
 ### Brief Architecture - Service Based API
-[![ARCHITECTURE](https://imgur.com/ugDpOpr "ARCHITECTURE")](https://imgur.com/ugDpOpr "ARCHITECTURE")
+[![ARCHITECTURE](https://imgur.com/ugDpOpr,jpg "ARCHITECTURE")](https://imgur.com/ugDpOpr.jpg "ARCHITECTURE")
 ### Stacks
 - Golang
 - JWT Token Signing https://pkg.go.dev/github.com/golang-jwt/jwt/v5
